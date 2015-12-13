@@ -1,2 +1,4 @@
 # dotvim
 My vim configuration
+
+Followed instructions from [http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/]
